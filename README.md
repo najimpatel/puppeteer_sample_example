@@ -1,5 +1,5 @@
 # puppeteer_sample_example
-first_puppeteer_example_Run 
+puppeteer_example_Run 
 
 Install Node.js using website 
 
