@@ -14,7 +14,7 @@ check npm install or not
     gives name of that .js file 
 
 Example 
-// sucsessfuly Run
+// successfully Run
 index.js
 
 const puppeteer = require('puppeteer');
