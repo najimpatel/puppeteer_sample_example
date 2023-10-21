@@ -1,4 +1,6 @@
-# puppeteer_sample_example
+Puppeteer is a browser automation tool that allows developers to control a browser via code. 
+It’s commonly used for testing web applications, but web scrapers can also use it to simulate actions done by a real browser and scrape information.
+
 puppeteer_example_Run 
 
 Install Node.js using website 
