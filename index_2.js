@@ -51,7 +51,7 @@ const puppeteer = require('puppeteer');
 
     if (title !== "Null") {
         // items.push( title,price,img) };  // check  output 
-        items.push({ title,price,img}) };  // {} bracket nahi de to ouput dict main nahi aayenga 
+        items.push({ title,price,img}) };  // {} bracket nahi de to ouput dict main nahi aayenga
   
   }
  
