@@ -1,0 +1,18 @@
+// testcafe example 
+
+import { Selector, t } from "testcafe";
+
+fixture 'Automate Form submission'
+
+.page("URL")
+
+test('Form', async=>{
+
+    await t
+    .typeText(Selector("#name"), 'Abcd')
+
+    .wait(1000)
+    
+
+})
+
